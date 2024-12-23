@@ -22,12 +22,12 @@ helps to register an users for on events conducted in college fests with simple 
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/event-management.git)  
+3. Download project from github - https://github.com/vandanamv/event-mamagement.git
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/event-management.git
+    ii>git clone https://github.com/vandanamv/event-mamagement.git
     
 4. extract files in C:\\xampp\htdocs\.
 
