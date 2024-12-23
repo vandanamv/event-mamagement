@@ -84,8 +84,14 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
+<<<<<<< HEAD
               <h2 class="ftco-heading-2">CST </h2>
               <p>The Department of Computer Science and Technology aims to produce highly skilled professionals in the field, foster cutting-edge research, and empower students to excel and contribute meaningfully to industry and society.</p>              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+=======
+              <h2 class="ftco-heading-2">CSE </h2>
+              <p>The Department of CSE will create high quality professionals in Computer Science & Engineering and to foster leading edge research and to equip students to succeed and contribute to industry and society.</p>
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+>>>>>>> d6968a79314d2d5d8a00ba99bf9298c61facccb3
                 <li class="ftco-animate"><a href="https://www.youtube.com/channel/UC1Vhv8EuXUw0ZOVm3OIIfMw"><span class="icon-youtube"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.facebook.com/Rajarajeswari.College.of.Engineering"><span class="icon-facebook"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.instagram.com/rajarajeswariengcollege/"><span class="icon-instagram"></span></a></li>
@@ -111,7 +117,11 @@
                 <li><a href="registration.php" class="py-2 d-block">Registration</a></li>
                 <li><a href="#events" class="py-2 d-block">events</a></li>
                 
+<<<<<<< HEAD
                 <li><a href="about.php" class="py-2 d-block">About Us</a></li>
+=======
+                <li><a href="about.php" class="py-2 d-block">Avout Us</a></li>
+>>>>>>> d6968a79314d2d5d8a00ba99bf9298c61facccb3
               </ul>
             </div>
           </div>
@@ -120,11 +130,20 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
+<<<<<<< HEAD
 	                <li><span class="icon icon-map-marker"></span><span class="text"> Dayananda Sagar University
                         Kudlu gate,Hosur Road, Bengaluru - 560 074,
                         Karnataka, India. </span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 2134687896</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">eng21ct0046@dsu.edu.in</span></a></li>
+=======
+	                <li><span class="icon icon-map-marker"></span><span class="text"> RajaRajeswari College of Engineering
+                        Ramohalli Cross, Kumbalgodu,
+                        Mysore Road, Bengaluru - 560 074,
+                        Karnataka, India. </span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 9535688928</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">cse2k19@gmail.com</span></a></li>
+>>>>>>> d6968a79314d2d5d8a00ba99bf9298c61facccb3
 	              </ul>
 	            </div>
             </div>
@@ -134,7 +153,11 @@
           <div class="col-md-12 text-center">
 
             <p>
+<<<<<<< HEAD
   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://www.dsu.edu.in/" target="_blank">DSU CST</a>
+=======
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://rrce.org" target="_blank">RRCE CSE</a>
+>>>>>>> d6968a79314d2d5d8a00ba99bf9298c61facccb3
   </p>
           </div>
         </div>

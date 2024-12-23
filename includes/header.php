@@ -1,6 +1,10 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
+<<<<<<< HEAD
       <a class="navbar-brand" href="index.html">ENG21CT0046</a>
+=======
+      <a class="navbar-brand" href="index.html">CSE2k19</a>
+>>>>>>> d6968a79314d2d5d8a00ba99bf9298c61facccb3
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
